@@ -1,2 +1,3 @@
 # _jekyll
-jekyll elements to be reused through all pages
+jekyll theme (based on [minima](//github.com/jekyll/minima) to be reused through all pages
+
